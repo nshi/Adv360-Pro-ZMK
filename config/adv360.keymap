@@ -18,6 +18,8 @@
 #include <dt-bindings/zmk/rgb.h>
 #include <dt-bindings/zmk/backlight.h>
 
+#define HYPER (MOD_LCTL | MOD_LALT | MOD_LGUI | MOD_LSFT)
+
 / {
   behaviors {
     #include "macros.dtsi"
