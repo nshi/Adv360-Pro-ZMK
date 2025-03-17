@@ -8,8 +8,9 @@
 #define HYPER    LS(LC(LA(LGUI)))
 
 &mt {
-    tapping-term-ms = <135>;
-    quick_tap_ms = <150>;
+    tapping-term-ms = <200>;
+    quick_tap_ms = <250>;
+    require-prior-idle-ms = <125>;
     flavor = "tap-preferred";
     retro-tap;
     hold-while-undecided;
