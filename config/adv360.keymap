@@ -62,7 +62,7 @@
             bindings = <
  &kp EQUAL     &kp N1    &kp N2    &kp N3     &kp N4  &kp N5                         &tog 1                                                                                                             &mo 3  &kp N6   &kp N7     &kp N8    &kp N9    &kp N0  &kp MINUS
    &kp TAB      &kp Q     &kp W     &kp E      &kp R   &kp T                 &macro_browser                                                                                                      &macro_slack   &kp Y    &kp U      &kp I     &kp O     &kp P   &kp BSLH
-   &kp ESC      &kp A     &kp S     &hm HYPER D    &lt 2 F   &kp G                    &macro_mail                  &tm LSHIFT ESC        &kp LALT                         &kp RALT      &kp RSHIFT     &macro_emacs   &kp H  &lt 2 J      &hm HYPER K     &kp L  &kp SEMI    &kp SQT
+   &kp ESC      &kp A     &kp S     &kp D    &kp F   &kp G                    &macro_mail                  &tm LSHIFT ESC        &kp LALT                         &kp RALT      &kp RSHIFT     &macro_emacs   &kp H  &kp J      &kp K     &kp L  &kp SEMI    &kp SQT
  &kp LSHFT      &kp Z     &kp X     &kp C      &kp V   &kp B                                                                    &macro_code                   &macro_hide_ui                                    &kp N    &kp M  &kp COMMA   &kp DOT  &kp FSLH  &kp RSHFT
      &mo 2  &kp GRAVE  &mt HYPER CAPS  &kp LEFT  &kp RIGHT                    &mt LCTRL BACKSPACE  &tm LGUI HYP(SPACE)  &macro_spotify                  &macro_dev_tool  &tm RGUI ENTER  &mt RCTRL SPACE           &kp UP   &kp DOWN  &kp LBKT  &kp RBKT      &mo 2
             >;
